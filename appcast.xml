@@ -6,5 +6,27 @@
     <link>https://raw.githubusercontent.com/ailtonvivaz/tape-releases/main/appcast.xml</link>
     <description>Updates for Tape — local-first macOS transcription.</description>
     <language>en</language>
+    <item>
+      <title>0.1.1</title>
+      <pubDate>Wed, 06 May 2026 00:18:08 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ailtonvivaz/tape-releases/releases/download/v0.1.1/Tape-0.1.1.dmg"
+                 length="5563037"
+                 type="application/octet-stream"
+                 sparkle:edSignature="doNYr2F62TdeapPxe3CH7h7EtHDoYn/QIlukK8oX1iaTGSF1GhDsQ3kXA895RXPd20LFWpHZb76WREReHSk6AA==" />
+    </item>
+    <item>
+      <title>0.1.0</title>
+      <pubDate>Wed, 06 May 2026 00:06:19 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ailtonvivaz/tape-releases/releases/download/v0.1.0/Tape-0.1.0.dmg"
+                 length="5562906"
+                 type="application/octet-stream"
+                 sparkle:edSignature="oKfsgw1hR8wbqCC3D++FObMs6+BlnBWJmjcCgrQJ38mtKI6hI/Z/tS+FJ/kwSgAf3/fvpmjm3Soy651W9rsOCg==" />
+    </item>
   </channel>
 </rss>
