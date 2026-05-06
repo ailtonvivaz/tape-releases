@@ -50,5 +50,16 @@
                  type="application/octet-stream"
                  sparkle:edSignature="UMmRsSDc4TXOt1OcrBumq1Q1Xm7qPujHtk9x9F6/Bi/TED+O8yyyZTrCaaEMdurrTSO8WrmTXdW/LiiCFTHnBQ==" />
     </item>
+    <item>
+      <title>0.1.4</title>
+      <pubDate>Wed, 06 May 2026 01:01:03 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ailtonvivaz/tape-releases/releases/download/v0.1.4/Tape-0.1.4.dmg"
+                 length="5562648"
+                 type="application/octet-stream"
+                 sparkle:edSignature="vCK+nRlRTzXH79E/0GLfa5seKF1JPEjNVrcTJSFAkCW61Iq27cOGSIxyC1bBrZ828jlxErVn9UWC/YxtlvV/CQ==" />
+    </item>
   </channel>
 </rss>
