@@ -28,5 +28,16 @@
                  type="application/octet-stream"
                  sparkle:edSignature="oKfsgw1hR8wbqCC3D++FObMs6+BlnBWJmjcCgrQJ38mtKI6hI/Z/tS+FJ/kwSgAf3/fvpmjm3Soy651W9rsOCg==" />
     </item>
+    <item>
+      <title>0.1.2</title>
+      <pubDate>Wed, 06 May 2026 00:27:21 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ailtonvivaz/tape-releases/releases/download/v0.1.2/Tape-0.1.2.dmg"
+                 length="5562772"
+                 type="application/octet-stream"
+                 sparkle:edSignature="60V+OYRPN6aCfSdoD6LRvlL++v8gVK+zeJnqrD6FQk59d/Wds5th2pjvUQdcumVKdIEPsx1JwS4PR0NrUCOdBA==" />
+    </item>
   </channel>
 </rss>
